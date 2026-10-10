@@ -1,0 +1,18 @@
+# Environments
+venv/
+env/
+.env
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# SQLite Database
+*.db
+*.sqlite3
+geospatial.db
+
+# OS generated files
+.DS_Store
+Thumbs.db
