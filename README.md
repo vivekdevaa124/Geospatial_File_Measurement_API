@@ -107,3 +107,8 @@ This is a backend service built with **FastAPI** that accepts a geospatial file 
   - Offload geospatial processing to background workers (e.g., Celery, Redis).
   - Use PostGIS instead of SQLite for advanced geospatial querying capabilities.
   - Implement pagination for the `/measurements/` endpoint when returning large numbers of features.
+
+  <img width="1907" height="872" alt="Screenshot 2026-10-10 225642" src="https://github.com/user-attachments/assets/82a0b3ac-3c95-4df2-9ed0-3edb9313f428" />
+  <img width="1915" height="882" alt="Screenshot 2026-10-10 225656" src="https://github.com/user-attachments/assets/fc60a5d3-7bfe-457b-a057-985facd96e1c" />
+
+
